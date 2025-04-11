@@ -2,6 +2,6 @@ size
 zeta
 pH
 enzyme_activity
-coating_Lipid
 coating_PEG
 coating_PLA
+coating_lipid
